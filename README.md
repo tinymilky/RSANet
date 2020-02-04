@@ -50,7 +50,7 @@ We choose one slice from a testing image, and compare the qualitative results of
 From left to right are ground truth label, results of RSA-111, NCL-010 and 3D U-Net. (More details in the [paper](https://link.springer.com/chapter/10.1007/978-3-030-32248-9_46))
 
 ## Citation
-If you are inspired by [RSANet]((https://link.springer.com/chapter/10.1007/978-3-030-32248-9_46)) or use our [code](https://github.com/tinymilky/tmp_test), please cite:
+If you are inspired by [RSANet](https://link.springer.com/chapter/10.1007/978-3-030-32248-9_46) or use our [code](https://github.com/tinymilky/RSANett), please cite:
 ```
 @inproceedings{zhang2019rsanet,
   title = {RSANet: Recurrent Slice-Wise Attention Network for Multiple Sclerosis Lesion Segmentation},
